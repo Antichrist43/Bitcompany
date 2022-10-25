@@ -1,0 +1,25 @@
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\bin\Debug\Bitcompany Core.exe.config
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\bin\Debug\Bitcompany Core.exe
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\bin\Debug\Bitcompany Core.pdb
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form1.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Properties.Resources.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany Core.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany Core.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany Core.exe
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany Core.pdb
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form2.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form3.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form4.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form5.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form8.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form9.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form10.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form6.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form7.resources
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\bin\Debug\MySql.Data.dll
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\bin\Debug\System.Data.SQLite.dll
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\bin\Debug\System.Data.SQLite.xml
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany Core.csproj.CopyComplete
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany Core.csproj.AssemblyReference.cache
