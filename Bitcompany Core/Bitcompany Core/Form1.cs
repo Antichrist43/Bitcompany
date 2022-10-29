@@ -57,8 +57,7 @@ namespace Bitcompany_Core
 
         private void createBitcompanyToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form4 myNewForm = new Form4();
-            myNewForm.Visible = true;
+      
         }
 
         private void sendBitcompanyToolStripMenuItem_Click(object sender, EventArgs e)
@@ -98,12 +97,22 @@ namespace Bitcompany_Core
         private void button1_Click(object sender, EventArgs e)
         {
 
-       
+            string cs1 = @"server=148.66.138.124;userid=chrisclarker99;password=Seadragon#1234;database=DBbitcompany";
+
+
+            var con1 = new MySqlConnection(cs1);
+            con1.Open();
         }
 
         private void bitcompanyChainToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void mitLicenseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form4 myNewForm = new Form4();
+            myNewForm.Visible = true;
         }
     }
 }

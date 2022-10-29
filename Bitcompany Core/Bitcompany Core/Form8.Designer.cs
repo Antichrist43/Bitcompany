@@ -29,56 +29,18 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form8));
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
             this.button2 = new System.Windows.Forms.Button();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(188, 334);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(348, 20);
-            this.textBox3.TabIndex = 33;
-            this.textBox3.Text = "E.g. 4674575475475478547";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(185, 303);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(97, 13);
-            this.label3.TabIndex = 32;
-            this.label3.Text = "My Bitcoin Address";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(185, 185);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(81, 13);
-            this.label4.TabIndex = 31;
-            this.label4.Text = "Bitcoin Amount:";
-            // 
-            // textBox4
-            // 
-            this.textBox4.Location = new System.Drawing.Point(188, 210);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(348, 20);
-            this.textBox4.TabIndex = 30;
-            this.textBox4.Text = "E.g. 1 ";
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(461, 376);
+            this.button2.Location = new System.Drawing.Point(461, 351);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 29;
@@ -99,15 +61,15 @@
             this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(185, 97);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(144, 13);
+            this.label5.Size = new System.Drawing.Size(167, 13);
             this.label5.TabIndex = 27;
-            this.label5.Text = "Bitcompany Address | Pay to:";
+            this.label5.Text = "Bitcompany Address of Requester";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(185, 244);
+            this.label1.Location = new System.Drawing.Point(185, 191);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(102, 13);
             this.label1.TabIndex = 35;
@@ -115,11 +77,29 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(188, 269);
+            this.textBox1.Location = new System.Drawing.Point(188, 216);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(348, 20);
             this.textBox1.TabIndex = 34;
             this.textBox1.Text = "E.g. 1 ";
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(188, 308);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(348, 20);
+            this.textBox2.TabIndex = 37;
+            this.textBox2.Text = "E.g. 4674575475475478547";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.Location = new System.Drawing.Point(185, 277);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(128, 13);
+            this.label2.TabIndex = 36;
+            this.label2.Text = "Your Bitcompany to send!";
             // 
             // Form8
             // 
@@ -127,18 +107,16 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(750, 453);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.textBox4);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.label5);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form8";
-            this.Text = "Send a Bitcompany";
+            this.Text = "Send a Bitcompany | Send to:";
             this.Load += new System.EventHandler(this.Form8_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -146,15 +124,12 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Label label2;
     }
 }

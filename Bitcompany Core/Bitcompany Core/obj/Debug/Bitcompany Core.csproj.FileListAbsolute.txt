@@ -9,8 +9,6 @@ C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany
 C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany Core.pdb
 C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form2.resources
 C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form3.resources
-C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form4.resources
-C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form5.resources
 C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form8.resources
 C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form9.resources
 C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form10.resources
@@ -23,3 +21,4 @@ C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\bin\Debug\System.Dat
 C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\bin\Debug\System.Data.SQLite.xml
 C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany Core.csproj.CopyComplete
 C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany Core.csproj.AssemblyReference.cache
+C:\Users\Chris\source\repos\Bitcompany Core\Bitcompany Core\obj\Debug\Bitcompany_Core.Form4.resources

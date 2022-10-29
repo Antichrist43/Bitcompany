@@ -51,9 +51,9 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(49, 157);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(70, 13);
+            this.label1.Size = new System.Drawing.Size(114, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Bitcompanies";
+            this.label1.Text = "My list of Bitcompanies";
             // 
             // label2
             // 
